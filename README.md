@@ -56,6 +56,8 @@ Using Python (`pandas`, `numpy`, `matplotlib`), this study resolves pipeline inc
 
 📸 *Result Screenshot: Cleaned Time-Series & Mask Coverage (Figure F1)*  
 `/screenshots/figure_f1_time_coverage.png`
+<img width="935" height="417" alt="image" src="https://github.com/user-attachments/assets/ee537e46-efb3-458f-b570-02bc7f0679fa" />
+
 
 ---
 
@@ -73,6 +75,7 @@ Using Python (`pandas`, `numpy`, `matplotlib`), this study resolves pipeline inc
 
 📸 *Result Screenshot: Density Distribution & Median Placement (Figure F2)*  
 `/screenshots/figure_f2_distributions.png`
+<img width="935" height="417" alt="image" src="https://github.com/user-attachments/assets/d1786ada-8ab3-432e-aaa0-13aaa5a5611f" />
 
 ---
 
@@ -101,6 +104,7 @@ Using Python (`pandas`, `numpy`, `matplotlib`), this study resolves pipeline inc
 
 📸 *Result Screenshot: Method Sensitivity Comparison (Figure F3)*  
 `/screenshots/figure_f3_sensitivity.png`
+<img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/017cc937-cc53-4c1c-83d3-5c922d3687af" />
 
 ---
 
